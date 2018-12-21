@@ -1,0 +1,47 @@
+/*for forms*/
+form li{
+    list-style: none;
+    padding: 5px;
+}
+form ul{
+    padding-left: 0;
+}
+
+label{
+    display: block;
+    cursor: pointer;
+    color: black;
+    font-family: sans-serif;
+    padding-bottom: 8px;
+}
+/*end of forms*/
+
+/*for fragment*/
+
+body{
+    width:600px;
+    margin: 20px auto;
+}
+article img{
+    float: left;
+    margin-right: 25px;
+}
+.preview{
+    float: right;
+    width: 350px;
+}
+a{
+    color:#276056
+}
+.meta a{
+    font-style: italic;
+}
+
+.meta li{
+    display: inline;
+}
+
+article h2{
+    font-size: 39px;
+    line-height: 1em;
+}
